@@ -1,0 +1,33 @@
+body{
+background-image:url("https://s3-ap-southeast-1.amazonaws.com/jurnal-blog-assets/wp-content/uploads/2019/02/16111950/Jurnal_Blog_Cara-Menghitung-BEP-untuk-Coffee-Shop.jpg-4.jpg" ) ;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+}
+.formulario{
+    background:rgb(158,158,158,0.5);
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow:0,0,20px rgb(52, 52, 199) ;
+}
+.form-control{
+    background:rgb(158,158,158,0.5);
+}
+.form-control ::placeholder {
+ color:white;
+}
+.ingresar{
+    background: rgb(157, 157, 163.0.5);
+    padding:10px;
+    font-size: 15px;
+    font-weight: 700;
+    color: rgba(35, 105, 196, 0.356) ;
+    box-shadow:0,0, 10 px rgb(157, 157, 163) ;
+    transition: 0.5 ease-in;
+}
+
+
+.ingresar:hover{
+color:white;
+}
